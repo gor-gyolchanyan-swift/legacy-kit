@@ -1,0 +1,4 @@
+module __LegacyKit {
+    requires blocks,objc,objc_arc
+    private header "Proxy/Proxy.h"
+}
